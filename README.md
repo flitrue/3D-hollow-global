@@ -1,6 +1,6 @@
 # 前言
 
-3D-hollow-global遵循[d3.v3](https://github.com/d3/d3)设计的一个有点和线连接的3D旋转的空心球。
+3D-hollow-global遵循[d3.v3](https://github.com/d3/d3)设计的一个有点和线连接的3D旋转的空心球。
 
 # 效果演示
 
